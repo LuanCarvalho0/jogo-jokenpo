@@ -14,6 +14,8 @@
 Este projeto é o famoso jogo pedra, papel e tesoura, conhecido como jokenpô
 
 
+<img align='right' width="230" height="" src="./imagens/tela.png" />
+
 ##  - Tecnologias 🚀️
 Neste projeto eu usei **choice** uma funcionalidade do **random** que faz a escolha aleatória de um item em uma lista.
 
