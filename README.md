@@ -3,7 +3,9 @@
 <img width='150' src="./imagens/2.png"/>
 </div>
 <div align="center">
-
+<p> </p>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
 
 
 ##  - Objetivo 🛠️
